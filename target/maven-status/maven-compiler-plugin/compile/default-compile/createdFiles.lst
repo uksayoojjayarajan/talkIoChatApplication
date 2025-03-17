@@ -1,0 +1,5 @@
+com/example/Talkio/Repository/MessageRepository.class
+com/example/Talkio/Repository/RoomMemberRepository.class
+com/example/Talkio/model/RoomMember.class
+com/example/Talkio/Repository/RoomRepository.class
+com/example/Talkio/model/Message.class
